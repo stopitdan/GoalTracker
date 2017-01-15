@@ -1,0 +1,6 @@
+framework module Pods_IntentionTrackerTests {
+  umbrella header "Pods-IntentionTrackerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
